@@ -122,6 +122,11 @@ var items = {
     "points": 2
   },
   {
+    "text": "Oh! [Well that's] Interesting!",
+    "guest": false,
+    "points": 2
+  },
+  {
     "text": "Gareth waves (not at the end of the video)",
     "guest": false,
     "points": 2
@@ -143,6 +148,11 @@ var items = {
       "points": 3
     },
     {
+      "text": "Well There's Your Problem mentioned",
+      "guest": false,
+      "points": 3
+    },
+    {
       "text": "Fucking Magic/FM Technology",
       "guest": false,
       "points": 3
@@ -153,22 +163,27 @@ var items = {
       "points": 3
     },
     {
-      "text": "Crossrail mentioned",
+      "text": "Crossrail (Elizabeth Line) mentioned",
       "guest": false,
       "points": 3
     },
     {
-      "text": "Covid mentioned",
+      "text": "COVID mentioned",
       "guest": false,
       "points": 3
     },
     {
-      "text": "Gareth fucks up the intro",
+      "text": "Gareth messes up the intro",
       "guest": false,
       "points": 3
     },
     {
       "text": "Tim Dunn",
+      "guest": false,
+      "points": 3
+    },
+    {
+      "text": "Commentary about something silly the government has done",
       "guest": false,
       "points": 3
     }
@@ -208,6 +223,12 @@ var items = {
     },
     {
       "text": "Photo of the Selby Diversion / Coulton Junction",
+      "guest": false,
+      "points": 5
+    },
+    ,
+    {
+      "text": "Something to do with audio mess ups",
       "guest": false,
       "points": 5
     },
