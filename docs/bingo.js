@@ -213,6 +213,11 @@ var items = {
       "text": "Vauge insults / justiculations twards CAM / Hyperloop / Musk / FM tech",
       "guest": false,
       "points": 4
+    },
+    {
+      "text": "Hendy",
+      "guest": false,
+      "points": 4
     }
   ],
   "fivePointItems": [
