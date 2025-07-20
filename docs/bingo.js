@@ -186,6 +186,11 @@ var items = {
       "text": "Commentary about something silly the government has done",
       "guest": false,
       "points": 3
+    },
+    {
+      "text": "Gareth talks about his book",
+      "guest": false,
+      "points": 3
     }
   ],
   "fourPointItems": [
